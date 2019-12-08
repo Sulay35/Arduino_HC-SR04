@@ -2,4 +2,4 @@
 Code for the ultrasonic sensor HC-SR04
 
 **Features to add :**
-  -Use multiple file with the function in an other file
+  \n -Use multiple file with the function in an other file
