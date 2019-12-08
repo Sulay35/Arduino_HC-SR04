@@ -8,7 +8,8 @@
 
 Code for the ultrasonic sensor HC-SR04
 
-***
+Using the HC-SR04 :
+![text alt](http://www.eu.diigiit.com/image/cache/catalog/sensors/hc-sr04-ultrasonic-sensor-1000x750.jpg "The sensor")
 
 #### Features to add :
-  \n -Use multiple file with the function in an other file
+  + Use multiple file with the function in an other file
