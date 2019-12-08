@@ -1,8 +1,8 @@
 ###### Credits
 + _Sulaymane Dagnet_
 + email : __sulaymane.dagnet@laposte.net__
-+ ![text alt](https://avatars3.githubusercontent.com/u/50274801?s=460&v=4 "Sulaymane Dagnet")
-
++ On : _08/12/2019_
+---
 
 # Arduino_HC-SR04
 Code for the ultrasonic sensor HC-SR04
